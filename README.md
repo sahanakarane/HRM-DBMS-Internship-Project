@@ -1,1 +1,2 @@
-# HRM-databasemanagement-system-
+# HRM-databasemanagement-system
+Developed a comprehensive HR Management system using a full-stack approach, combining HTML for structuring, CSS for styling, and JavaScript with jQuery for dynamic client-side functionalities. On the server side, leveraged PHP to handle data processing and interactions with the MySQL database. The system encompasses a user-friendly interface, ensuring seamless navigation and a positive user experience while effectively managing HR-related tasks and data.
